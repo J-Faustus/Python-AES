@@ -13,8 +13,12 @@ This work is made for educational and hobby purposes. It is not meant for actual
 
 ## instructions for use to come soon
 
-## See Also
+## See Also:
 
 A program by my collaborator: a roughly 2 or 3 times faster AES implementation that's harder to understand
 
 https://github.com/IneededAnAccountToDoStuff/AES_demo_basis
+
+## See Also: What You Just Saw:
+
+[What you will see](https://github.com/J-Faustus/Python-AES/tree/main)
